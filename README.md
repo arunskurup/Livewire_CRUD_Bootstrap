@@ -3,8 +3,8 @@
 <h2 style="color:cyan">Installation</h2>
 <ul>
     <li>Clone the Repo: <br> </li>
-    <li style=""> > git clone https://github.com/arunskurup/Admin-Livewire.git</li>
-    <li> > cd Admin-Livewire</li>
+    <li style=""> > git clone github.com/arunskurup/Livewire_CRUD_Bootstrap.git</li>
+    <li> > cd Livewire_CRUD_Bootstrap</li>
     <li> > composer install</li>
     <li> > cp .env.example .env</li>
     <li> > Set up .env file</li>
